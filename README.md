@@ -5,10 +5,11 @@ O projeto foi criado em nodeJS utilizando websocket para criar um chat em tempo 
 ---
 ### A seguir uma demonstração da utilização do projeto.
 <p align="center">
-  <img src="https://media.giphy.com/media/Pgz7BqfH5A8oHS8T5T/giphy.gif" width="1080/>
+  <img src="https://media.giphy.com/media/Pgz7BqfH5A8oHS8T5T/giphy.gif" width="1080" >
 </p>
 
 ---
+
 ## Iniciando a aplicação
 1. Faça o clone deste repositório
 2. Entre na pasta do projeto e rode o comando: yarn, para instalar as dependências.
