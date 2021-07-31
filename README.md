@@ -18,7 +18,7 @@ O projeto foi criado em nodeJS utilizando websocket para criar um chat em tempo 
 
 
 ## Utilizando o chat
-Para poder utilizar e testar o projeto acesse as páginas a seguir:
+Para poder utilizar e testar o projeto, após iniciar a aplicação, acesse as páginas a seguir:
 - Administrador: http://localhost:3000/pages/admin
 - Cliente: http://localhost:3000/pages/client
 
