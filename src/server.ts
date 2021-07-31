@@ -1,5 +1,5 @@
-import express from 'express';
+import { http } from './http';
+import './websocket/client';
+import './websocket/admin';
 
-const app = express();
-
-app.listen(3333, () => console.log('Server is running on port 3333'));
+http.listen(3000, () => console.log('Server is running on port 3000'));
