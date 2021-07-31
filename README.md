@@ -5,7 +5,7 @@ O projeto foi criado em nodeJS utilizando websocket para criar um chat em tempo 
 ---
 ### A seguir uma demonstração da utilização do projeto.
 <p align="center">
-  <img src="https://media.giphy.com/media/Pgz7BqfH5A8oHS8T5T/giphy.gif" width="470"  />
+  <img src="https://media.giphy.com/media/Pgz7BqfH5A8oHS8T5T/giphy.gif" width="1080/>
 </p>
 
 ---
